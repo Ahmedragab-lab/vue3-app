@@ -3,23 +3,10 @@
 			<div class="container">
 				<div class="row">
 				
-					<div class="about-content col-sm-8 col-xs-12 text-left">
+					<div class="about-content col-sm-12 col-xs-12 text-left">
 						<h3 class="sec-heading text-capitalize main-color" >The best coffee for you</h3>
-						<h2>Cafe House</h2>
-						<p>hello</p>
-						<div class="main-btn"><a class="main-color" href="#" >Read More</a></div>
-					</div>
-					
-					<div class="col-sm-4 col-xs-12">
-						<div class="about-img text-center">
-							<div class="img-tableau">
-								<img class="img-responsive img-circle" src="../../assets/images/about/about.jpg" alt="about image" style="width: 220px; height: 220px;" />
-							</div>
-						</div>
-					</div>
-          <br>
-          <hr>
-          <table class="table">
+						<h2>Cafe House Tasks</h2>
+						<table class="table">
             <thead>
               <tr>
                 <th scope="col">#</th>
@@ -35,7 +22,7 @@
               </tr>
             </tbody>
           </table>
-				
+					</div>
 				</div><!-- ./row -->
 			</div><!-- ./container -->
 		</section><!-- ./about -->
