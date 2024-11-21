@@ -25,7 +25,7 @@
 				<div class="row">
 				
 					<div class="about-content col-sm-8 col-xs-12 text-left">
-						<h3 class="sec-heading text-capitalize main-color" >The best coffee for you</h3>
+						<h3 class="sec-heading text-capitalize main-color" >The best coffee for fzfzfjklmnopq you</h3>
 						<h2>Cafe House</h2>
 						<p>hello</p>
 						<div class="main-btn"><a class="main-color" href="#" >Read More</a></div>

@@ -7,20 +7,20 @@
 						<h3 class="sec-heading text-capitalize main-color" >The best coffee for you</h3>
 						<h2>Cafe House Tasks</h2>
 						<table class="table">
-            <thead>
-              <tr>
-                <th scope="col">#</th>
-                <th scope="col">Task Name</th>
-                <th scope="col">Task priority</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr v-for="(task, index) in tasks" :key="task.id">
-                <td>{{ index + 1 }}</td>
-                <td>{{ task.name }}</td>
-                <td>{{ task.priority }}</td>
-              </tr>
-            </tbody>
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Task Name</th>
+                  <th scope="col">Task priority</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="(task, index) in tasks" :key="task.id">
+                  <td>{{ index + 1 }}</td>
+                  <td>{{ task.name }}</td>
+                  <td>{{ task.priority }}</td>
+                </tr>
+              </tbody>
           </table>
 					</div>
 				</div><!-- ./row -->
